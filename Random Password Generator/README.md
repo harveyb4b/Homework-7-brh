@@ -1,37 +1,18 @@
-# Brian Harvey Responsive Portfolio
+# The Harvey Random Password Generator
+**Version 1.0.0**
+Stop creating your own password 
 
-Designed a Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. 
+Rando Password Generator will provide a unique and secure password based on your criteria
 
-Added responsive design to an existing application. 
+Based on your criteria this app will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code.
 
-Provided a home, about me, contact me, my portfolio pages for potential web developer gigs using the Bootstrap CSS Framework 
+If your password requires any or all of these criteria this is the right app for you!
++UpperCase
++LowerCase
++Numbers
++Symbols
 
-Each page contains the following :
-
-   * A navbar
-
-   * A responsive layout
-
-   * Responsive images
-   
-   * Link to profesional social media in footer
-
-You will find included 
-
-   * Functional, deployed application
-
-   * GitHub repository with README describing the project
-
-   * Navbar must be consistent on each page.
-
-   * Navbar on each page must contain links to Home/About, Contact, and Portfolio pages.
-
-   * All links must work.
-
-   * Must use semantic html.
-
-   * Each page must have valid and correct HTML. (use a validation service)
-
-
-
-
+## Created by
+Brian Harvey
+06.10.2020
+University of Pennsylvania Coding Bootcamp 
